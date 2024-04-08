@@ -1,0 +1,83 @@
+{
+  "biology1": [
+    {
+      "question": "What is the structure of a cell?",
+      "answers": "Cells are the basic units of life, and they have different parts with specific functions.The nucleus acts like the brain, controlling the cell's activities, while mitochondria are the powerhouses producing energy. Think of cells as microscopic factories, each organelle playing a vital role in maintaining the cell and supporting the organism."
+    },
+    {
+      "question": "How do plants make food through photosynthesis?",
+      "answers": "Photosynthesis is the process by which plants convert sunlight into energy in the form of glucose. Imagine a plant as a chef. It uses sunlight, water, and carbon dioxide to cook up glucose, which serves as the plant's food. Oxygen is released as a byproduct, making photosynthesis essential for both plants and the oxygen-dependent organisms."
+    }
+  ],
+
+  "biology2": [
+    {
+      "question": "What happens in the human digestive system?",
+      "answers": "The digestive system processes food, breaking it down into nutrients for the body to use. Picture your digestive system as a complex conveyor belt, with each stage playing a crucial role in digestion.Nutrients are absorbed in the small intestine, and waste is eliminated, ensuring the body receives essential elements for growth and energy."
+    },
+    {
+      "question": "How do living things depend on each other in an ecosystem?",
+      "answers": "Ecosystems involve a balance where living things depend on each other for survival. Plants, as producers, create food through photosynthesis, supporting herbivores (consumers) and carnivores (predators) in the food chain. It's like a dynamic food party in nature, where each organism has a role in maintaining the balance."
+    }
+  ],
+  "physics1": [
+    {
+      "question": "What is gravity, and how does it affect objects?",
+      "answers": "Gravity is the force that pulls objects towards each other, and it's what keeps us on the ground. Objects with mass attract each other, and the larger the mass, the stronger the gravitational pull. Understanding gravity is crucial for explaining why objects fall and the dynamics of celestial bodies in space."
+    },
+    {
+      "question": "How do simple machines make work easier?",
+      "answers": "Simple machines, like levers and pulleys, reduce the effort needed to perform work. They provide mechanical advantage, allowing us to lift or move heavy objects with less force. Understanding simple machines is fundamental to engineering and designing systems that make tasks more efficient."
+    }
+  ],
+  "physics2": [
+    {
+      "question": "What is the flow of electrical energy in a circuit?",
+      "answers": "Electricity flows in a circuit like cars on a track, and completing the circuit allows the flow of energy. Components like resistors control the flow, and switches act as gates, controlling whether the circuit is open or closed. Learning about circuits is essential for understanding electronic devices and power systems."
+    },
+    {
+      "question": "How do sound waves travel, and what is their impact?",
+      "answers": "Sound waves are vibrations that travel through a medium, such as air or water. When an object vibrates, it creates compressions and rarefactions, forming sound waves. Understanding sound waves is crucial for audio technology and the design of acoustic environments."
+    }
+  ],
+  "english1": [
+    {
+      "question": "What are nouns and verbs, and how do they form sentences?",
+      "answers": "Nouns are names of people, places, or things, while verbs are action words that describe what the subject is doing. Sentences are formed by combining nouns and verbs, creating a complete thought. Recognizing and using nouns and verbs correctly enhances writing and communication skills."
+    },
+    {
+      "question": "How is a sentence structured, and what are the roles of the subject and predicate?",
+      "answers": "A sentence has a subject, which is the main focus, and a predicate, describing what the subject is doing. Understanding sentence structure is essential for conveying clear and concise information. Effective communication relies on properly constructed sentences with identifiable subjects and predicates."
+    }
+  ],
+  "english2": [
+    {
+      "question": "What are homophones, and how do they impact language?",
+      "answers": "Homophones are words that sound the same but have different meanings and spellings. Mastering homophones is crucial for precise and accurate communication. Confusing homophones can lead to misunderstandings, so it's essential to use them correctly in writing and speech."
+    },
+    {
+      "question": "How can one develop effective reading comprehension skills?",
+      "answers": "Reading comprehension involves understanding and interpreting written content. Practice reading and ask questions about the main idea, characters, and sequence of events. Developing strong reading comprehension skills enhances academic performance and critical thinking abilities."
+    }
+  ],
+  "maths1": [
+    {
+      "question": "What is the importance of place value in mathematics?",
+      "answers": "Place value helps in understanding the numerical value of digits based on their position in a number. It forms the foundation for arithmetic operations, ensuring accurate calculations. Proficiency in place value is crucial for working with large numbers and decimals in advanced mathematics."
+    },
+    {
+      "question": "Why are addition and subtraction fundamental operations in mathematics?",
+      "answers": "Addition combines quantities, and subtraction takes away one quantity from another. These operations are fundamental for solving real-world problems and advanced mathematical concepts. Mastery of addition and subtraction is essential for success in more complex mathematical topics."
+    }
+  ],
+  "maths2": [
+    {
+      "question": "How do multiplication tables contribute to mathematical proficiency?",
+      "answers": "Multiplication is a shortcut for repeated addition, and memorizing tables facilitates quick calculations. Proficiency in multiplication is crucial for solving complex mathematical problems efficiently. Learning and understanding multiplication tables build a solid foundation for higher-level mathematics."
+    },
+    {
+      "question": "Why is understanding fractions important in mathematics?",
+      "answers": "Fractions represent parts of a whole and are crucial for expressing relationships between quantities. They are essential for real-life applications, such as measurements and proportions. Understanding fractions lays the groundwork for advanced mathematical concepts like algebra and calculus."
+    }
+  ]
+}
